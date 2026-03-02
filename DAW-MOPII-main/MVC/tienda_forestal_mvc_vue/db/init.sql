@@ -40,5 +40,10 @@ INSERT INTO productos (nombre, tipo, marca, descripcion, precio, stock, imagen) 
 ('Hacha Husqvarna X-Cut X162', 'hacha', 'Husqvarna', 'Hacha profesional de talá-intermedia', 69.00, 28, 'hacha_husqvarna_xcut_x162.jpg'),
 ('Maza Stanley FatMax FME-MFM18XB-1', 'maza', 'Stanley', 'Maza profesional para uso forestal con mango de fibra', 79.90, 20, 'maza_stanley_fatmax_fmemfm18xb1.jpg'),
 ('Casco Forestal Husqvarna Technical XR', 'accesorio', 'Husqvarna', 'Casco técnico con protección para tala intensiva', 99.90, 15, 'casco_husqvarna_technical_xr.jpg'),
-('Kit Limpieza Motosierra Stihl Premium', 'accesorio', 'Stihl', 'Kit de limpieza y mantenimiento para motosierra', 39.00, 30, 'kit_limpieza_motosierra_stihl_premium.jpg');
+('Kit Limpieza Motosierra Stihl Premium', 'accesorio', 'Stihl', 'Kit de limpieza y mantenimiento para motosierra', 39.00, 30, 'kit_limpieza_motosierra_stihl_premium.jpg'),
+('Teclado Mecánico RGB', 'electronica', 'Logitech', 'Teclado mecánico con iluminación RGB para gaming', 89.99, 25, 'teclado_logitech_rgb.jpg'),
+('Silla Gamer Pro', 'mobiliario', 'DXRacer', 'Silla ergonómica con soporte lumbar ajustable', 249.99, 8, 'silla_dxracer_pro.jpg'),
+('Camiseta Oversize', 'ropa', 'Nike', 'Camiseta deportiva de algodón transpirable', 34.99, 50, 'camiseta_nike_oversize.jpg'),
+('Cafetera Italiana', 'hogar', 'Bialetti', 'Cafetera moka de aluminio para 6 tazas', 24.99, 30, 'cafetera_bialetti_6t.jpg'),
+('Patinete Eléctrico X2', 'transporte', 'Xiaomi', 'Patinete eléctrico plegable con 25km de autonomía', 399.99, 15, 'patinete_xiaomi_x2.jpg');
 
