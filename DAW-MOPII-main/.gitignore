@@ -1,0 +1,7 @@
+*.orig
+*.odt
+*.swp
+*.svg
+keys_github
+keys_github.pub
+/MVC/ficheros_antiguos/*
