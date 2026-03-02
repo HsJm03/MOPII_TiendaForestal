@@ -20,7 +20,7 @@ app.register_blueprint(producto_blueprint, url_prefix="/api")
 #    print(app.url_map)
 @app.route("/")
 def home():
-    return "Backend Flask funcionando correctamente."
+    return "Titulo cambiado para confirmar que el backend funciona"
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0", port=5000)
